@@ -94,4 +94,3 @@ Este projeto é livre para uso e modificação.
 
 ---
 
-Se precisar de ajuda para adaptar o código ou adicionar mais funcionalidades, é só avisar!
